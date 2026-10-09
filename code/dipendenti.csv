@@ -1,0 +1,261 @@
+﻿id_dipendente;nome;cognome;reparto;sede;ruolo;tipo_contratto;data_assunzione;data_uscita;data_scadenza_contratto;ore_settimanali;fte;id_responsabile;centro_costo;email_aziendale
+E0001;Chiara;Bruno;Engineering;Milano;Product Designer;Determinato;2025-06-25;Non applicabile;2027-05-25;32;0.80;NESSUNO;CC01;chiara.bruno.1@azienda-demo.example.test
+E0002;Stefano;Ricci;Operations;Milano;Office Specialist;Indeterminato;2025-04-11;Non applicabile;Non applicabile;40;1.00;NESSUNO;CC02;stefano.ricci.2@azienda-demo.example.test
+E0003;Nicola;Rizzo;Customer Support;Milano;Support Specialist;Indeterminato;2025-06-24;Non applicabile;Non applicabile;40;1.00;NESSUNO;CC03;nicola.rizzo.3@azienda-demo.example.test
+E0004;Francesca;Conti;Sales;Milano;Sales Specialist;Determinato;2025-03-13;Non applicabile;2027-06-28;20;0.50;NESSUNO;CC04;francesca.conti.4@azienda-demo.example.test
+E0005;Claudia;Barbieri;Finance;Palermo;Finance Specialist;Indeterminato;2020-02-21;Non applicabile;Non applicabile;40;1.00;NESSUNO;CC05;claudia.barbieri.5@azienda-demo.example.test
+E0006;Luca;Ferrara;People;Milano;HR Specialist;Indeterminato;2023-03-11;Non applicabile;Non applicabile;32;0.80;NESSUNO;CC06;luca.ferrara.6@azienda-demo.example.test
+E0007;Luca;Rizzo;Marketing;Milano;Content Specialist;Indeterminato;2023-05-14;Non applicabile;Non applicabile;40;1.00;NESSUNO;CC07;luca.rizzo.7@azienda-demo.example.test
+E0008;Giulia;Conti;Direzione;Bologna;Executive Assistant;Indeterminato;2022-08-31;Non applicabile;Non applicabile;40;1.00;NESSUNO;CC08;giulia.conti.8@azienda-demo.example.test
+E0009;Matteo;Barbieri;Customer Support;Bologna;Support Specialist;Determinato;2020-03-27;Non applicabile;2026-10-30;40;1.00;E0003;CC03;matteo.barbieri.9@azienda-demo.example.test
+E0010;Giulia;Conti;Engineering;Palermo;Product Designer;Determinato;2025-08-26;Non applicabile;2026-11-29;40;1.00;E0001;CC01;giulia.conti.10@azienda-demo.example.test
+E0011;Silvia;Ferrari;Sales;Milano;Account Executive;Determinato;2020-04-02;Non applicabile;2026-09-30;40;1.00;E0004;CC04;silvia.ferrari.11@azienda-demo.example.test
+E0012;Martina;Rinaldi;Finance;Milano;Finance Specialist;Determinato;2022-06-20;Non applicabile;2027-03-31;40;1.00;E0005;CC05;martina.rinaldi.12@azienda-demo.example.test
+E0013;Elena;Conti;Operations;Palermo;Office Specialist;Apprendistato;2020-08-12;Non applicabile;2027-01-26;40;1.00;E0002;CC02;elena.conti.13@azienda-demo.example.test
+E0014;Riccardo;Gallo;Engineering;Bologna;Software Developer;Indeterminato;2022-07-18;Non applicabile;Non applicabile;30;0.75;E0001;CC01;riccardo.gallo.14@azienda-demo.example.test
+E0015;Marco;Bianchi;Finance;Remote;Finance Specialist;Indeterminato;2021-08-22;Non applicabile;Non applicabile;40;1.00;E0005;CC05;marco.bianchi.15@azienda-demo.example.test
+E0016;Alessia;Caruso;People;Remote;HR Specialist;Determinato;2024-07-09;Non applicabile;2027-05-15;40;1.00;E0006;CC06;alessia.caruso.16@azienda-demo.example.test
+E0017;Giulia;Galli;Customer Support;Bologna;Customer Care Specialist;Indeterminato;2023-11-25;Non applicabile;Non applicabile;40;1.00;E0003;CC03;giulia.galli.17@azienda-demo.example.test
+E0018;Valentina;Mancini;Marketing;Bologna;Content Specialist;Indeterminato;2025-06-30;Non applicabile;Non applicabile;40;1.00;E0007;CC07;valentina.mancini.18@azienda-demo.example.test
+E0019;Davide;Russo;Operations;Milano;Office Specialist;Indeterminato;2023-03-03;Non applicabile;Non applicabile;40;1.00;E0002;CC02;davide.russo.19@azienda-demo.example.test
+E0020;Martina;Mancini;Finance;Remote;Controller;Determinato;2023-06-04;Non applicabile;2027-07-14;40;1.00;E0005;CC05;martina.mancini.20@azienda-demo.example.test
+E0021;Lorenzo;Rizzo;Engineering;Milano;QA Engineer;Determinato;2023-10-13;Non applicabile;2026-12-10;32;0.80;E0001;CC01;lorenzo.rizzo.21@azienda-demo.example.test
+E0022;Martina;Rossi;Operations;Milano;Logistics Coordinator;Indeterminato;2021-10-26;Non applicabile;Non applicabile;32;0.80;E0002;CC02;martina.rossi.22@azienda-demo.example.test
+E0023;Valentina;Leone;Operations;Milano;Office Specialist;Indeterminato;2025-01-18;Non applicabile;Non applicabile;40;1.00;E0002;CC02;valentina.leone.23@azienda-demo.example.test
+E0024;Luca;Rizzo;Finance;Milano;Controller;Determinato;2019-08-09;Non applicabile;2027-10-04;40;1.00;E0005;CC05;luca.rizzo.24@azienda-demo.example.test
+E0025;Francesca;Fontana;Engineering;Bologna;Software Developer;Apprendistato;2020-10-19;Non applicabile;2026-11-10;36;0.90;E0001;CC01;francesca.fontana.25@azienda-demo.example.test
+E0026;Sara;Esposito;Finance;Milano;Controller;Indeterminato;2020-10-19;Non applicabile;Non applicabile;40;1.00;E0005;CC05;sara.esposito.26@azienda-demo.example.test
+E0027;Silvia;Ferrara;Operations;Milano;Office Specialist;Indeterminato;2024-03-29;Non applicabile;Non applicabile;40;1.00;E0002;CC02;silvia.ferrara.27@azienda-demo.example.test
+E0028;Pietro;Mariani;Engineering;Bologna;Product Designer;Indeterminato;2021-06-21;Non applicabile;Non applicabile;40;1.00;E0001;CC01;pietro.mariani.28@azienda-demo.example.test
+E0029;Giulia;Bianchi;Engineering;Milano;QA Engineer;Apprendistato;2020-05-14;Non applicabile;2027-06-19;40;1.00;E0001;CC01;giulia.bianchi.29@azienda-demo.example.test
+E0030;Simone;Mariani;Operations;Milano;Operations Specialist;Indeterminato;2024-03-15;Non applicabile;Non applicabile;40;1.00;E0002;CC02;simone.mariani.30@azienda-demo.example.test
+E0031;Chiara;Galli;Operations;Milano;Operations Specialist;Indeterminato;2021-05-24;Non applicabile;Non applicabile;40;1.00;E0002;CC02;chiara.galli.31@azienda-demo.example.test
+E0032;Giuseppe;Colombo;Finance;Bologna;Accountant;Determinato;2024-06-25;Non applicabile;2027-08-03;40;1.00;E0005;CC05;giuseppe.colombo.32@azienda-demo.example.test
+E0033;Elena;Leone;Operations;Bologna;Office Specialist;Apprendistato;2018-02-16;Non applicabile;2027-06-29;40;1.00;E0002;CC02;elena.leone.33@azienda-demo.example.test
+E0034;Lorenzo;Conti;Engineering;Remote;Product Designer;Indeterminato;2025-06-07;Non applicabile;Non applicabile;40;1.00;E0001;CC01;lorenzo.conti.34@azienda-demo.example.test
+E0035;Antonio;Bianchi;Operations;Remote;Office Specialist;Indeterminato;2021-06-18;Non applicabile;Non applicabile;40;1.00;E0002;CC02;antonio.bianchi.35@azienda-demo.example.test
+E0036;Alice;Barbieri;Operations;Palermo;Office Specialist;Indeterminato;2020-11-14;Non applicabile;Non applicabile;40;1.00;E0002;CC02;alice.barbieri.36@azienda-demo.example.test
+E0037;Stefano;Mariani;Engineering;Milano;Product Designer;Indeterminato;2025-02-19;Non applicabile;Non applicabile;40;1.00;E0001;CC01;stefano.mariani.37@azienda-demo.example.test
+E0038;Alessia;Mancini;Marketing;Palermo;Marketing Analyst;Indeterminato;2024-08-08;Non applicabile;Non applicabile;32;0.80;E0007;CC07;alessia.mancini.38@azienda-demo.example.test
+E0039;Luca;Bruno;Operations;Milano;Operations Specialist;Indeterminato;2024-08-16;Non applicabile;Non applicabile;40;1.00;E0002;CC02;luca.bruno.39@azienda-demo.example.test
+E0040;Marco;Rizzo;Operations;Milano;Office Specialist;Indeterminato;2025-12-05;Non applicabile;Non applicabile;40;1.00;E0002;CC02;marco.rizzo.40@azienda-demo.example.test
+E0041;Riccardo;Giordano;Operations;Remote;Office Specialist;Indeterminato;2018-02-06;Non applicabile;Non applicabile;40;1.00;E0002;CC02;riccardo.giordano.41@azienda-demo.example.test
+E0042;Riccardo;Greco;Engineering;Palermo;Software Developer;Determinato;2022-02-25;Non applicabile;2027-07-23;40;1.00;E0001;CC01;riccardo.greco.42@azienda-demo.example.test
+E0043;Simone;Mancini;Sales;Remote;Sales Operations;Indeterminato;2024-05-05;Non applicabile;Non applicabile;30;0.75;E0004;CC04;simone.mancini.43@azienda-demo.example.test
+E0044;Sara;Moretti;Operations;Milano;Operations Specialist;Apprendistato;2020-06-29;Non applicabile;2026-10-25;40;1.00;E0002;CC02;sara.moretti.44@azienda-demo.example.test
+E0045;Lorenzo;Lombardi;Engineering;Bologna;Software Developer;Indeterminato;2019-03-09;Non applicabile;Non applicabile;40;1.00;E0001;CC01;lorenzo.lombardi.45@azienda-demo.example.test
+E0046;Lorenzo;Galli;Customer Support;Palermo;Team Coordinator;Determinato;2022-12-20;Non applicabile;2027-06-14;40;1.00;E0003;CC03;lorenzo.galli.46@azienda-demo.example.test
+E0047;Pietro;Conti;Sales;Remote;Account Executive;Determinato;2019-03-12;Non applicabile;2027-10-19;32;0.80;E0004;CC04;pietro.conti.47@azienda-demo.example.test
+E0048;Alessia;Lombardi;Operations;Palermo;Operations Specialist;Indeterminato;2025-03-12;Non applicabile;Non applicabile;40;1.00;E0002;CC02;alessia.lombardi.48@azienda-demo.example.test
+E0049;Chiara;Esposito;Operations;Bologna;Operations Specialist;Indeterminato;2024-02-13;Non applicabile;Non applicabile;40;1.00;E0002;CC02;chiara.esposito.49@azienda-demo.example.test
+E0050;Alice;Gallo;Finance;Bologna;Accountant;Indeterminato;2023-07-21;Non applicabile;Non applicabile;24;0.60;E0005;CC05;alice.gallo.50@azienda-demo.example.test
+E0051;Giorgia;Ricci;Operations;Milano;Office Specialist;Indeterminato;2018-05-25;Non applicabile;Non applicabile;40;1.00;E0002;CC02;giorgia.ricci.51@azienda-demo.example.test
+E0052;Alice;Ferrara;Operations;Palermo;Office Specialist;Indeterminato;2022-02-02;Non applicabile;Non applicabile;40;1.00;E0002;CC02;alice.ferrara.52@azienda-demo.example.test
+E0053;Luca;Bianchi;Direzione;Milano;Business Manager;Indeterminato;2019-03-07;Non applicabile;Non applicabile;40;1.00;E0008;CC08;luca.bianchi.53@azienda-demo.example.test
+E0054;Valentina;Marino;Sales;Remote;Sales Operations;Indeterminato;2022-05-17;Non applicabile;Non applicabile;32;0.80;E0004;CC04;valentina.marino.54@azienda-demo.example.test
+E0055;Luca;Romano;People;Milano;People Operations;Determinato;2021-07-01;Non applicabile;2027-04-22;40;1.00;E0006;CC06;luca.romano.55@azienda-demo.example.test
+E0056;Silvia;Rizzo;Marketing;Bologna;Campaign Specialist;Indeterminato;2021-08-10;Non applicabile;Non applicabile;40;1.00;E0007;CC07;silvia.rizzo.56@azienda-demo.example.test
+E0057;Simone;Mariani;Operations;Milano;Logistics Coordinator;Indeterminato;2019-06-07;Non applicabile;Non applicabile;40;1.00;E0002;CC02;simone.mariani.57@azienda-demo.example.test
+E0058;Sara;Conti;Operations;Palermo;Operations Specialist;Indeterminato;2022-04-19;Non applicabile;Non applicabile;40;1.00;E0002;CC02;sara.conti.58@azienda-demo.example.test
+E0059;Giorgia;Galli;Engineering;Remote;QA Engineer;Indeterminato;2021-02-24;Non applicabile;Non applicabile;24;0.60;E0001;CC01;giorgia.galli.59@azienda-demo.example.test
+E0060;Simone;Giordano;Finance;Milano;Finance Specialist;Indeterminato;2020-04-27;Non applicabile;Non applicabile;40;1.00;E0005;CC05;simone.giordano.60@azienda-demo.example.test
+E0061;Giuseppe;Ricci;Operations;Bologna;Office Specialist;Indeterminato;2022-10-01;Non applicabile;Non applicabile;40;1.00;E0002;CC02;giuseppe.ricci.61@azienda-demo.example.test
+E0062;Nicola;Bianchi;Marketing;Bologna;Campaign Specialist;Indeterminato;2020-01-28;Non applicabile;Non applicabile;40;1.00;E0007;CC07;nicola.bianchi.62@azienda-demo.example.test
+E0063;Riccardo;Barbieri;Operations;Milano;Office Specialist;Determinato;2019-03-08;Non applicabile;2027-01-28;40;1.00;E0002;CC02;riccardo.barbieri.63@azienda-demo.example.test
+E0064;Giorgia;Ferrara;Operations;Bologna;Operations Specialist;Indeterminato;2018-10-18;Non applicabile;Non applicabile;30;0.75;E0002;CC02;giorgia.ferrara.64@azienda-demo.example.test
+E0065;Francesca;Costa;Customer Support;Milano;Support Specialist;Indeterminato;2021-04-14;Non applicabile;Non applicabile;40;1.00;E0003;CC03;francesca.costa.65@azienda-demo.example.test
+E0066;Pietro;Esposito;Marketing;Milano;Campaign Specialist;Indeterminato;2025-03-08;Non applicabile;Non applicabile;20;0.50;E0007;CC07;pietro.esposito.66@azienda-demo.example.test
+E0067;Martina;Ricci;Customer Support;Milano;Support Specialist;Indeterminato;2025-02-08;Non applicabile;Non applicabile;40;1.00;E0003;CC03;martina.ricci.67@azienda-demo.example.test
+E0068;Antonio;Fontana;Marketing;Palermo;Marketing Analyst;Determinato;2022-11-16;Non applicabile;2027-08-06;20;0.50;E0007;CC07;antonio.fontana.68@azienda-demo.example.test
+E0069;Marco;Martini;Finance;Remote;Accountant;Indeterminato;2020-06-03;Non applicabile;Non applicabile;40;1.00;E0005;CC05;marco.martini.69@azienda-demo.example.test
+E0070;Andrea;Gallo;Engineering;Milano;Software Developer;Indeterminato;2025-07-19;Non applicabile;Non applicabile;40;1.00;E0001;CC01;andrea.gallo.70@azienda-demo.example.test
+E0071;Chiara;Mariani;Engineering;Milano;Software Developer;Apprendistato;2019-03-26;Non applicabile;2026-10-03;40;1.00;E0001;CC01;chiara.mariani.71@azienda-demo.example.test
+E0072;Stefano;Barbieri;Sales;Palermo;Sales Operations;Indeterminato;2025-01-10;Non applicabile;Non applicabile;30;0.75;E0004;CC04;stefano.barbieri.72@azienda-demo.example.test
+E0073;Claudia;Mancini;Customer Support;Bologna;Team Coordinator;Indeterminato;2023-02-25;Non applicabile;Non applicabile;40;1.00;E0003;CC03;claudia.mancini.73@azienda-demo.example.test
+E0074;Francesco;Giordano;Customer Support;Remote;Support Specialist;Indeterminato;2021-06-09;Non applicabile;Non applicabile;40;1.00;E0003;CC03;francesco.giordano.74@azienda-demo.example.test
+E0075;Matteo;Fontana;Customer Support;Remote;Customer Care Specialist;Indeterminato;2020-05-07;Non applicabile;Non applicabile;40;1.00;E0003;CC03;matteo.fontana.75@azienda-demo.example.test
+E0076;Pietro;Mariani;Engineering;Bologna;Product Designer;Determinato;2023-09-06;Non applicabile;2027-05-02;30;0.75;E0001;CC01;pietro.mariani.76@azienda-demo.example.test
+E0077;Martina;Colombo;Operations;Milano;Operations Specialist;Indeterminato;2018-05-06;Non applicabile;Non applicabile;40;1.00;E0002;CC02;martina.colombo.77@azienda-demo.example.test
+E0078;Alessandro;Marino;Engineering;Milano;Product Designer;Indeterminato;2025-02-17;Non applicabile;Non applicabile;40;1.00;E0001;CC01;alessandro.marino.78@azienda-demo.example.test
+E0079;Giorgia;Galli;Sales;Palermo;Sales Specialist;Indeterminato;2022-04-01;Non applicabile;Non applicabile;40;1.00;E0004;CC04;giorgia.galli.79@azienda-demo.example.test
+E0080;Laura;Caruso;Operations;Palermo;Logistics Coordinator;Indeterminato;2024-12-06;Non applicabile;Non applicabile;40;1.00;E0002;CC02;laura.caruso.80@azienda-demo.example.test
+E0081;Andrea;Lombardi;Engineering;Palermo;Product Designer;Indeterminato;2022-04-06;Non applicabile;Non applicabile;40;1.00;E0001;CC01;andrea.lombardi.81@azienda-demo.example.test
+E0082;Riccardo;Romano;Finance;Milano;Controller;Determinato;2018-01-06;Non applicabile;2027-08-09;40;1.00;E0005;CC05;riccardo.romano.82@azienda-demo.example.test
+E0083;Lorenzo;Leone;Sales;Milano;Sales Specialist;Indeterminato;2024-09-12;Non applicabile;Non applicabile;40;1.00;E0004;CC04;lorenzo.leone.83@azienda-demo.example.test
+E0084;Giuseppe;Mariani;Customer Support;Bologna;Team Coordinator;Indeterminato;2018-08-03;Non applicabile;Non applicabile;40;1.00;E0003;CC03;giuseppe.mariani.84@azienda-demo.example.test
+E0085;Martina;DeLuca;Finance;Bologna;Controller;Apprendistato;2023-08-20;Non applicabile;2027-05-30;40;1.00;E0005;CC05;martina.deluca.85@azienda-demo.example.test
+E0086;Alice;Barbieri;Marketing;Bologna;Marketing Analyst;Indeterminato;2023-07-08;Non applicabile;Non applicabile;40;1.00;E0007;CC07;alice.barbieri.86@azienda-demo.example.test
+E0087;Valentina;Mariani;Engineering;Remote;Product Designer;Indeterminato;2024-09-11;Non applicabile;Non applicabile;40;1.00;E0001;CC01;valentina.mariani.87@azienda-demo.example.test
+E0088;Giuseppe;Barbieri;Sales;Milano;Account Executive;Indeterminato;2019-07-06;Non applicabile;Non applicabile;40;1.00;E0004;CC04;giuseppe.barbieri.88@azienda-demo.example.test
+E0089;Matteo;Giordano;Operations;Remote;Logistics Coordinator;Determinato;2025-01-03;Non applicabile;2026-11-03;40;1.00;E0002;CC02;matteo.giordano.89@azienda-demo.example.test
+E0090;Marco;Mancini;Operations;Milano;Operations Specialist;Indeterminato;2019-06-07;Non applicabile;Non applicabile;24;0.60;E0002;CC02;marco.mancini.90@azienda-demo.example.test
+E0091;Elena;Esposito;Customer Support;Palermo;Team Coordinator;Indeterminato;2023-10-13;Non applicabile;Non applicabile;32;0.80;E0003;CC03;elena.esposito.91@azienda-demo.example.test
+E0092;Davide;Giordano;Customer Support;Bologna;Customer Care Specialist;Determinato;2022-03-17;Non applicabile;2026-11-21;40;1.00;E0003;CC03;davide.giordano.92@azienda-demo.example.test
+E0093;Claudia;Mariani;Finance;Palermo;Accountant;Indeterminato;2022-09-18;Non applicabile;Non applicabile;24;0.60;E0005;CC05;claudia.mariani.93@azienda-demo.example.test
+E0094;Martina;Fontana;Finance;Milano;Accountant;Indeterminato;2021-12-27;Non applicabile;Non applicabile;40;1.00;E0005;CC05;martina.fontana.94@azienda-demo.example.test
+E0095;Alessia;Greco;Engineering;Remote;Product Designer;Apprendistato;2019-05-25;Non applicabile;2027-02-12;40;1.00;E0001;CC01;alessia.greco.95@azienda-demo.example.test
+E0096;Alice;Caruso;Operations;Remote;Logistics Coordinator;Apprendistato;2023-06-18;Non applicabile;2027-08-23;40;1.00;E0002;CC02;alice.caruso.96@azienda-demo.example.test
+E0097;Alessia;Barbieri;Engineering;Milano;Product Designer;Indeterminato;2025-05-23;Non applicabile;Non applicabile;40;1.00;E0001;CC01;alessia.barbieri.97@azienda-demo.example.test
+E0098;Simone;Rossi;Marketing;Remote;Marketing Analyst;Determinato;2021-10-14;Non applicabile;2027-06-05;40;1.00;E0007;CC07;simone.rossi.98@azienda-demo.example.test
+E0099;Matteo;Santoro;Sales;Milano;Account Executive;Indeterminato;2024-03-04;Non applicabile;Non applicabile;40;1.00;E0004;CC04;matteo.santoro.99@azienda-demo.example.test
+E0100;Lorenzo;Rossi;Engineering;Milano;Product Designer;Indeterminato;2022-05-02;Non applicabile;Non applicabile;40;1.00;E0001;CC01;lorenzo.rossi.100@azienda-demo.example.test
+E0101;Andrea;Marino;Engineering;Bologna;Product Designer;Indeterminato;2023-07-26;Non applicabile;Non applicabile;40;1.00;E0001;CC01;andrea.marino.101@azienda-demo.example.test
+E0102;Francesca;Giordano;Operations;Remote;Logistics Coordinator;Indeterminato;2024-04-03;Non applicabile;Non applicabile;40;1.00;E0002;CC02;francesca.giordano.102@azienda-demo.example.test
+E0103;Alessandro;Esposito;People;Milano;HR Specialist;Indeterminato;2022-09-18;Non applicabile;Non applicabile;40;1.00;E0006;CC06;alessandro.esposito.103@azienda-demo.example.test
+E0104;Simone;Esposito;Engineering;Milano;Product Designer;Indeterminato;2022-07-10;Non applicabile;Non applicabile;40;1.00;E0001;CC01;simone.esposito.104@azienda-demo.example.test
+E0105;Antonio;Rossi;Sales;Milano;Sales Specialist;Indeterminato;2020-05-30;Non applicabile;Non applicabile;40;1.00;E0004;CC04;antonio.rossi.105@azienda-demo.example.test
+E0106;Alessandro;Martini;Marketing;Milano;Campaign Specialist;Indeterminato;2023-07-21;Non applicabile;Non applicabile;40;1.00;E0007;CC07;alessandro.martini.106@azienda-demo.example.test
+E0107;Valentina;Ferrara;Customer Support;Milano;Support Specialist;Determinato;2019-06-22;Non applicabile;2027-02-24;30;0.75;E0003;CC03;valentina.ferrara.107@azienda-demo.example.test
+E0108;Simone;Bruno;Operations;Bologna;Operations Specialist;Indeterminato;2023-03-28;Non applicabile;Non applicabile;40;1.00;E0002;CC02;simone.bruno.108@azienda-demo.example.test
+E0109;Elena;Colombo;Customer Support;Bologna;Customer Care Specialist;Indeterminato;2019-10-05;Non applicabile;Non applicabile;40;1.00;E0003;CC03;elena.colombo.109@azienda-demo.example.test
+E0110;Silvia;Marino;People;Milano;Recruiter;Indeterminato;2025-04-05;Non applicabile;Non applicabile;40;1.00;E0006;CC06;silvia.marino.110@azienda-demo.example.test
+E0111;Francesca;Gallo;Engineering;Palermo;QA Engineer;Indeterminato;2019-04-29;Non applicabile;Non applicabile;40;1.00;E0001;CC01;francesca.gallo.111@azienda-demo.example.test
+E0112;Ilaria;Moretti;Finance;Remote;Accountant;Indeterminato;2020-07-05;Non applicabile;Non applicabile;36;0.90;E0005;CC05;ilaria.moretti.112@azienda-demo.example.test
+E0113;Chiara;Ricci;Marketing;Milano;Marketing Analyst;Apprendistato;2024-01-03;Non applicabile;2027-06-16;30;0.75;E0007;CC07;chiara.ricci.113@azienda-demo.example.test
+E0114;Alice;Greco;Engineering;Palermo;Software Developer;Indeterminato;2024-02-29;Non applicabile;Non applicabile;40;1.00;E0001;CC01;alice.greco.114@azienda-demo.example.test
+E0115;Federica;Marino;Finance;Milano;Controller;Determinato;2025-10-01;Non applicabile;2027-06-12;24;0.60;E0005;CC05;federica.marino.115@azienda-demo.example.test
+E0116;Simone;Ferrara;Finance;Remote;Finance Specialist;Indeterminato;2021-11-11;Non applicabile;Non applicabile;40;1.00;E0005;CC05;simone.ferrara.116@azienda-demo.example.test
+E0117;Luca;Giordano;Engineering;Bologna;QA Engineer;Indeterminato;2025-01-21;Non applicabile;Non applicabile;36;0.90;E0001;CC01;luca.giordano.117@azienda-demo.example.test
+E0118;Francesco;Ferrari;Operations;Milano;Logistics Coordinator;Indeterminato;2022-07-05;Non applicabile;Non applicabile;24;0.60;E0002;CC02;francesco.ferrari.118@azienda-demo.example.test
+E0119;Elena;Santoro;Operations;Palermo;Logistics Coordinator;Indeterminato;2025-08-30;Non applicabile;Non applicabile;40;1.00;E0002;CC02;elena.santoro.119@azienda-demo.example.test
+E0120;Andrea;Lombardi;Operations;Bologna;Office Specialist;Determinato;2019-09-20;Non applicabile;2027-09-26;40;1.00;E0002;CC02;andrea.lombardi.120@azienda-demo.example.test
+E0121;Matteo;Santoro;Engineering;Palermo;Product Designer;Determinato;2024-12-14;Non applicabile;2026-11-06;40;1.00;E0001;CC01;matteo.santoro.121@azienda-demo.example.test
+E0122;Francesca;Gallo;Marketing;Milano;Content Specialist;Determinato;2023-02-01;Non applicabile;2027-08-16;32;0.80;E0007;CC07;francesca.gallo.122@azienda-demo.example.test
+E0123;Alessandro;Esposito;Operations;Remote;Logistics Coordinator;Indeterminato;2023-05-25;Non applicabile;Non applicabile;40;1.00;E0002;CC02;alessandro.esposito.123@azienda-demo.example.test
+E0124;Matteo;Mancini;Sales;Milano;Account Executive;Indeterminato;2025-02-22;Non applicabile;Non applicabile;40;1.00;E0004;CC04;matteo.mancini.124@azienda-demo.example.test
+E0125;Pietro;Gallo;Engineering;Bologna;Product Designer;Indeterminato;2023-03-26;Non applicabile;Non applicabile;40;1.00;E0001;CC01;pietro.gallo.125@azienda-demo.example.test
+E0126;Giulia;Rossi;Operations;Milano;Logistics Coordinator;Indeterminato;2023-11-01;Non applicabile;Non applicabile;32;0.80;E0002;CC02;giulia.rossi.126@azienda-demo.example.test
+E0127;Francesco;Caruso;Customer Support;Remote;Customer Care Specialist;Indeterminato;2018-03-21;Non applicabile;Non applicabile;40;1.00;E0003;CC03;francesco.caruso.127@azienda-demo.example.test
+E0128;Marco;Bianchi;Engineering;Milano;Software Developer;Indeterminato;2024-02-28;Non applicabile;Non applicabile;40;1.00;E0001;CC01;marco.bianchi.128@azienda-demo.example.test
+E0129;Andrea;Lombardi;Engineering;Bologna;QA Engineer;Determinato;2022-11-26;Non applicabile;2027-02-27;40;1.00;E0001;CC01;andrea.lombardi.129@azienda-demo.example.test
+E0130;Elena;Caruso;Engineering;Bologna;QA Engineer;Indeterminato;2021-02-28;Non applicabile;Non applicabile;20;0.50;E0001;CC01;elena.caruso.130@azienda-demo.example.test
+E0131;Giulia;Mariani;Sales;Milano;Account Executive;Determinato;2023-07-12;Non applicabile;2027-01-06;40;1.00;E0004;CC04;giulia.mariani.131@azienda-demo.example.test
+E0132;Ilaria;Marino;Marketing;Bologna;Content Specialist;Determinato;2023-02-07;Non applicabile;2026-11-08;40;1.00;E0007;CC07;ilaria.marino.132@azienda-demo.example.test
+E0133;Lorenzo;Martini;Customer Support;Milano;Support Specialist;Apprendistato;2021-02-22;Non applicabile;2027-08-26;40;1.00;E0003;CC03;lorenzo.martini.133@azienda-demo.example.test
+E0134;Antonio;Caruso;Marketing;Bologna;Content Specialist;Indeterminato;2024-06-09;Non applicabile;Non applicabile;30;0.75;E0007;CC07;antonio.caruso.134@azienda-demo.example.test
+E0135;Alice;Rizzo;Marketing;Milano;Campaign Specialist;Indeterminato;2025-11-26;Non applicabile;Non applicabile;32;0.80;E0007;CC07;alice.rizzo.135@azienda-demo.example.test
+E0136;Pietro;Rossi;Engineering;Bologna;Product Designer;Indeterminato;2023-12-13;Non applicabile;Non applicabile;40;1.00;E0001;CC01;pietro.rossi.136@azienda-demo.example.test
+E0137;Simone;Rizzo;Operations;Remote;Office Specialist;Indeterminato;2018-02-23;Non applicabile;Non applicabile;40;1.00;E0002;CC02;simone.rizzo.137@azienda-demo.example.test
+E0138;Valentina;Lombardi;Finance;Milano;Accountant;Indeterminato;2023-12-10;Non applicabile;Non applicabile;40;1.00;E0005;CC05;valentina.lombardi.138@azienda-demo.example.test
+E0139;Ilaria;Rossi;Operations;Milano;Operations Specialist;Indeterminato;2023-04-09;Non applicabile;Non applicabile;40;1.00;E0002;CC02;ilaria.rossi.139@azienda-demo.example.test
+E0140;Alice;Bianchi;Finance;Remote;Accountant;Indeterminato;2021-11-28;Non applicabile;Non applicabile;30;0.75;E0005;CC05;alice.bianchi.140@azienda-demo.example.test
+E0141;Ilaria;Gallo;Customer Support;Milano;Customer Care Specialist;Indeterminato;2020-08-23;Non applicabile;Non applicabile;40;1.00;E0003;CC03;ilaria.gallo.141@azienda-demo.example.test
+E0142;Elena;Leone;Operations;Milano;Operations Specialist;Indeterminato;2022-10-28;Non applicabile;Non applicabile;40;1.00;E0002;CC02;elena.leone.142@azienda-demo.example.test
+E0143;Stefano;Mancini;Engineering;Palermo;Software Developer;Indeterminato;2020-01-10;Non applicabile;Non applicabile;24;0.60;E0001;CC01;stefano.mancini.143@azienda-demo.example.test
+E0144;Giorgia;Gallo;Engineering;Palermo;Product Designer;Determinato;2020-06-22;Non applicabile;2027-03-25;40;1.00;E0001;CC01;giorgia.gallo.144@azienda-demo.example.test
+E0145;Ilaria;Bruno;Engineering;Bologna;QA Engineer;Indeterminato;2023-04-28;Non applicabile;Non applicabile;40;1.00;E0001;CC01;ilaria.bruno.145@azienda-demo.example.test
+E0146;Laura;Conti;Customer Support;Palermo;Customer Care Specialist;Determinato;2021-10-01;Non applicabile;2027-02-08;20;0.50;E0003;CC03;laura.conti.146@azienda-demo.example.test
+E0147;Ilaria;Greco;Engineering;Bologna;Software Developer;Indeterminato;2021-03-04;Non applicabile;Non applicabile;40;1.00;E0001;CC01;ilaria.greco.147@azienda-demo.example.test
+E0148;Pietro;Mancini;Direzione;Palermo;Executive Assistant;Indeterminato;2021-06-13;Non applicabile;Non applicabile;40;1.00;E0008;CC08;pietro.mancini.148@azienda-demo.example.test
+E0149;Sara;Esposito;Engineering;Milano;Product Designer;Indeterminato;2023-06-15;Non applicabile;Non applicabile;40;1.00;E0001;CC01;sara.esposito.149@azienda-demo.example.test
+E0150;Andrea;Esposito;Finance;Palermo;Finance Specialist;Indeterminato;2018-01-31;Non applicabile;Non applicabile;40;1.00;E0005;CC05;andrea.esposito.150@azienda-demo.example.test
+E0151;Claudia;Esposito;Operations;Bologna;Logistics Coordinator;Indeterminato;2019-04-06;Non applicabile;Non applicabile;40;1.00;E0002;CC02;claudia.esposito.151@azienda-demo.example.test
+E0152;Alice;Martini;Operations;Bologna;Office Specialist;Indeterminato;2023-02-11;Non applicabile;Non applicabile;20;0.50;E0002;CC02;alice.martini.152@azienda-demo.example.test
+E0153;Marco;Russo;Operations;Remote;Logistics Coordinator;Indeterminato;2019-03-08;Non applicabile;Non applicabile;40;1.00;E0002;CC02;marco.russo.153@azienda-demo.example.test
+E0154;Simone;Moretti;Customer Support;Milano;Team Coordinator;Indeterminato;2018-11-17;Non applicabile;Non applicabile;36;0.90;E0003;CC03;simone.moretti.154@azienda-demo.example.test
+E0155;Valentina;Fontana;Marketing;Milano;Marketing Analyst;Indeterminato;2024-04-11;Non applicabile;Non applicabile;40;1.00;E0007;CC07;valentina.fontana.155@azienda-demo.example.test
+E0156;Matteo;Lombardi;Operations;Palermo;Office Specialist;Apprendistato;2018-02-19;Non applicabile;2026-12-14;40;1.00;E0002;CC02;matteo.lombardi.156@azienda-demo.example.test
+E0157;Alessia;Ferrari;Engineering;Milano;Product Designer;Indeterminato;2022-10-16;Non applicabile;Non applicabile;40;1.00;E0001;CC01;alessia.ferrari.157@azienda-demo.example.test
+E0158;Alessia;Rizzo;Customer Support;Bologna;Customer Care Specialist;Indeterminato;2023-02-14;Non applicabile;Non applicabile;40;1.00;E0003;CC03;alessia.rizzo.158@azienda-demo.example.test
+E0159;Chiara;Mancini;Customer Support;Remote;Customer Care Specialist;Indeterminato;2022-11-13;Non applicabile;Non applicabile;40;1.00;E0003;CC03;chiara.mancini.159@azienda-demo.example.test
+E0160;Silvia;Rizzo;Customer Support;Bologna;Support Specialist;Indeterminato;2024-09-15;Non applicabile;Non applicabile;40;1.00;E0003;CC03;silvia.rizzo.160@azienda-demo.example.test
+E0161;Marco;Rinaldi;Engineering;Milano;Product Designer;Indeterminato;2025-10-12;Non applicabile;Non applicabile;40;1.00;E0001;CC01;marco.rinaldi.161@azienda-demo.example.test
+E0162;Marco;Romano;Engineering;Milano;QA Engineer;Indeterminato;2025-02-13;Non applicabile;Non applicabile;40;1.00;E0001;CC01;marco.romano.162@azienda-demo.example.test
+E0163;Elena;Conti;Finance;Bologna;Controller;Indeterminato;2022-12-09;Non applicabile;Non applicabile;40;1.00;E0005;CC05;elena.conti.163@azienda-demo.example.test
+E0164;Giuseppe;Barbieri;People;Milano;HR Specialist;Indeterminato;2025-05-11;Non applicabile;Non applicabile;40;1.00;E0006;CC06;giuseppe.barbieri.164@azienda-demo.example.test
+E0165;Alessia;Russo;Finance;Palermo;Accountant;Determinato;2020-05-22;Non applicabile;2026-11-22;40;1.00;E0005;CC05;alessia.russo.165@azienda-demo.example.test
+E0166;Alice;Fontana;Finance;Milano;Finance Specialist;Determinato;2022-04-24;Non applicabile;2026-11-05;40;1.00;E0005;CC05;alice.fontana.166@azienda-demo.example.test
+E0167;Alessandro;Martini;Customer Support;Palermo;Customer Care Specialist;Indeterminato;2025-02-08;Non applicabile;Non applicabile;40;1.00;E0003;CC03;alessandro.martini.167@azienda-demo.example.test
+E0168;Claudia;Russo;Marketing;Remote;Content Specialist;Indeterminato;2024-07-12;Non applicabile;Non applicabile;40;1.00;E0007;CC07;claudia.russo.168@azienda-demo.example.test
+E0169;Alessia;Barbieri;Customer Support;Milano;Team Coordinator;Indeterminato;2022-09-02;Non applicabile;Non applicabile;24;0.60;E0003;CC03;alessia.barbieri.169@azienda-demo.example.test
+E0170;Alice;Leone;Operations;Palermo;Office Specialist;Indeterminato;2024-01-11;Non applicabile;Non applicabile;40;1.00;E0002;CC02;alice.leone.170@azienda-demo.example.test
+E0171;Federica;Martini;Operations;Milano;Operations Specialist;Determinato;2024-08-28;Non applicabile;2027-10-05;20;0.50;E0002;CC02;federica.martini.171@azienda-demo.example.test
+E0172;Federica;Fontana;Sales;Milano;Sales Specialist;Determinato;2020-03-21;Non applicabile;2026-12-14;40;1.00;E0004;CC04;federica.fontana.172@azienda-demo.example.test
+E0173;Silvia;Rinaldi;Engineering;Palermo;Software Developer;Indeterminato;2018-01-25;Non applicabile;Non applicabile;40;1.00;E0001;CC01;silvia.rinaldi.173@azienda-demo.example.test
+E0174;Martina;DeLuca;Sales;Milano;Sales Specialist;Determinato;2022-01-27;Non applicabile;2026-10-20;24;0.60;E0004;CC04;martina.deluca.174@azienda-demo.example.test
+E0175;Elena;Ferrari;Customer Support;Palermo;Support Specialist;Indeterminato;2022-11-22;Non applicabile;Non applicabile;40;1.00;E0003;CC03;elena.ferrari.175@azienda-demo.example.test
+E0176;Claudia;Lombardi;Direzione;Bologna;Business Manager;Indeterminato;2024-09-23;Non applicabile;Non applicabile;40;1.00;E0008;CC08;claudia.lombardi.176@azienda-demo.example.test
+E0177;Silvia;Rizzo;Engineering;Milano;Product Designer;Indeterminato;2018-12-08;Non applicabile;Non applicabile;20;0.50;E0001;CC01;silvia.rizzo.177@azienda-demo.example.test
+E0178;Martina;Conti;Engineering;Remote;QA Engineer;Determinato;2024-01-01;Non applicabile;2026-11-23;30;0.75;E0001;CC01;martina.conti.178@azienda-demo.example.test
+E0179;Alessia;Moretti;Customer Support;Bologna;Customer Care Specialist;Indeterminato;2018-09-07;Non applicabile;Non applicabile;40;1.00;E0003;CC03;alessia.moretti.179@azienda-demo.example.test
+E0180;Simone;Mariani;Marketing;Remote;Content Specialist;Determinato;2018-08-20;2026-09-30;2026-09-29;30;0.75;E0007;CC07;simone.mariani.180@azienda-demo.example.test
+E0181;Silvia;Bianchi;Customer Support;Milano;Customer Care Specialist;Indeterminato;2020-12-01;2026-09-10;Non applicabile;40;1.00;E0003;CC03;silvia.bianchi.181@azienda-demo.example.test
+E0182;Ilaria;Russo;Marketing;Remote;Content Specialist;Determinato;2021-02-08;2026-07-09;2026-07-08;40;1.00;E0007;CC07;ilaria.russo.182@azienda-demo.example.test
+E0183;Andrea;Lombardi;Engineering;Palermo;Product Designer;Determinato;2021-01-29;2026-08-12;2026-08-11;40;1.00;E0001;CC01;andrea.lombardi.183@azienda-demo.example.test
+E0184;Pietro;Lombardi;Customer Support;Bologna;Customer Care Specialist;Indeterminato;2019-03-07;2026-07-13;Non applicabile;40;1.00;E0003;CC03;pietro.lombardi.184@azienda-demo.example.test
+E0185;Elena;Leone;Customer Support;Milano;Team Coordinator;Determinato;2025-08-31;2026-06-13;2026-06-12;40;1.00;E0003;CC03;elena.leone.185@azienda-demo.example.test
+E0186;Alice;Lombardi;Operations;Bologna;Logistics Coordinator;Indeterminato;2020-07-03;2026-08-03;Non applicabile;40;1.00;E0002;CC02;alice.lombardi.186@azienda-demo.example.test
+E0187;Nicola;Bruno;Engineering;Palermo;Software Developer;Apprendistato;2024-02-06;2026-09-03;2026-09-02;40;1.00;E0001;CC01;nicola.bruno.187@azienda-demo.example.test
+E0188;Elena;Barbieri;Operations;Milano;Operations Specialist;Indeterminato;2020-10-30;2026-06-19;Non applicabile;20;0.50;E0002;CC02;elena.barbieri.188@azienda-demo.example.test
+E0189;Matteo;Fontana;Marketing;Bologna;Content Specialist;Determinato;2020-09-24;2026-08-24;2026-08-23;40;1.00;E0007;CC07;matteo.fontana.189@azienda-demo.example.test
+E0190;Ilaria;Giordano;Engineering;Milano;Software Developer;Indeterminato;2025-07-06;2026-06-26;Non applicabile;40;1.00;E0001;CC01;ilaria.giordano.190@azienda-demo.example.test
+E0191;Elena;Martini;Sales;Bologna;Sales Specialist;Indeterminato;2022-07-31;2026-05-21;Non applicabile;40;1.00;E0004;CC04;elena.martini.191@azienda-demo.example.test
+E0192;Valentina;Leone;Sales;Palermo;Account Executive;Indeterminato;2018-04-11;2026-07-09;Non applicabile;32;0.80;E0004;CC04;valentina.leone.192@azienda-demo.example.test
+E0193;Silvia;Costa;Operations;Bologna;Logistics Coordinator;Indeterminato;2021-02-01;2026-08-09;Non applicabile;40;1.00;E0002;CC02;silvia.costa.193@azienda-demo.example.test
+E0194;Elena;Mancini;Engineering;Milano;Product Designer;Indeterminato;2025-06-20;2026-07-31;Non applicabile;40;1.00;E0001;CC01;elena.mancini.194@azienda-demo.example.test
+E0195;Andrea;Bianchi;Customer Support;Milano;Team Coordinator;Indeterminato;2021-06-12;2026-04-06;Non applicabile;40;1.00;E0003;CC03;andrea.bianchi.195@azienda-demo.example.test
+E0196;Ilaria;Gallo;Operations;Palermo;Logistics Coordinator;Determinato;2020-08-23;2026-06-13;2026-06-12;40;1.00;E0002;CC02;ilaria.gallo.196@azienda-demo.example.test
+E0197;Alessia;Barbieri;Finance;Bologna;Accountant;Indeterminato;2025-01-19;2026-08-24;Non applicabile;40;1.00;E0005;CC05;alessia.barbieri.197@azienda-demo.example.test
+E0198;Laura;Leone;Direzione;Palermo;Executive Assistant;Indeterminato;2019-02-13;2026-04-15;Non applicabile;40;1.00;E0008;CC08;laura.leone.198@azienda-demo.example.test
+E0199;Stefano;Gallo;Engineering;Milano;QA Engineer;Indeterminato;2018-06-05;2026-05-07;Non applicabile;40;1.00;E0001;CC01;stefano.gallo.199@azienda-demo.example.test
+E0200;Sara;DeLuca;Engineering;Milano;QA Engineer;Indeterminato;2021-02-26;2026-09-19;Non applicabile;40;1.00;E0001;CC01;sara.deluca.200@azienda-demo.example.test
+E0201;Andrea;Leone;Engineering;Remote;QA Engineer;Indeterminato;2018-07-25;2026-08-29;Non applicabile;40;1.00;E0001;CC01;andrea.leone.201@azienda-demo.example.test
+E0202;Martina;Martini;Direzione;Milano;Project Manager;Determinato;2021-07-31;Non applicabile;2027-04-13;40;1.00;E0008;CC08;martina.martini.202@azienda-demo.example.test
+E0203;Chiara;Caruso;Customer Support;Bologna;Team Coordinator;Indeterminato;2024-09-08;Non applicabile;Non applicabile;40;1.00;E0003;CC03;chiara.caruso.203@azienda-demo.example.test
+E0204;Riccardo;Leone;Operations;Bologna;Office Specialist;Indeterminato;2019-01-16;Non applicabile;Non applicabile;40;1.00;E0002;CC02;riccardo.leone.204@azienda-demo.example.test
+E0205;Lorenzo;Santoro;Engineering;Bologna;Software Developer;Indeterminato;2019-08-13;Non applicabile;Non applicabile;40;1.00;E0001;CC01;lorenzo.santoro.205@azienda-demo.example.test
+E0206;Marco;Bianchi;Engineering;Bologna;Product Designer;Determinato;2019-10-12;Non applicabile;2027-07-29;40;1.00;E0001;CC01;marco.bianchi.206@azienda-demo.example.test
+E0207;Matteo;Santoro;Customer Support;Palermo;Support Specialist;Determinato;2025-11-07;Non applicabile;2027-08-28;40;1.00;E0003;CC03;matteo.santoro.207@azienda-demo.example.test
+E0208;Claudia;Leone;Engineering;Bologna;QA Engineer;Determinato;2018-10-09;Non applicabile;2027-07-19;40;1.00;E0001;CC01;claudia.leone.208@azienda-demo.example.test
+E0209;Elena;Moretti;Operations;Bologna;Office Specialist;Indeterminato;2023-06-13;Non applicabile;Non applicabile;40;1.00;E0002;CC02;elena.moretti.209@azienda-demo.example.test
+E0210;Simone;Mariani;Engineering;Bologna;Product Designer;Indeterminato;2023-08-12;Non applicabile;Non applicabile;40;1.00;E0001;CC01;simone.mariani.210@azienda-demo.example.test
+E0211;Francesca;Romano;People;Bologna;Recruiter;Indeterminato;2024-06-19;Non applicabile;Non applicabile;40;1.00;E0006;CC06;francesca.romano.211@azienda-demo.example.test
+E0212;Giuseppe;Rinaldi;Customer Support;Remote;Team Coordinator;Determinato;2024-01-22;Non applicabile;2026-12-02;40;1.00;E0003;CC03;giuseppe.rinaldi.212@azienda-demo.example.test
+E0213;Valentina;Esposito;Customer Support;Milano;Customer Care Specialist;Indeterminato;2018-11-13;Non applicabile;Non applicabile;40;1.00;E0003;CC03;valentina.esposito.213@azienda-demo.example.test
+E0214;Lorenzo;Ferrari;Customer Support;Milano;Customer Care Specialist;Determinato;2025-05-18;Non applicabile;2027-03-21;30;0.75;E0003;CC03;lorenzo.ferrari.214@azienda-demo.example.test
+E0215;Valentina;Moretti;Sales;Palermo;Account Executive;Indeterminato;2024-11-26;Non applicabile;Non applicabile;40;1.00;E0004;CC04;valentina.moretti.215@azienda-demo.example.test
+E0216;Sara;Rinaldi;Finance;Milano;Finance Specialist;Indeterminato;2023-03-29;Non applicabile;Non applicabile;40;1.00;E0005;CC05;sara.rinaldi.216@azienda-demo.example.test
+E0217;Chiara;Moretti;Customer Support;Palermo;Customer Care Specialist;Indeterminato;2021-10-07;Non applicabile;Non applicabile;40;1.00;E0003;CC03;chiara.moretti.217@azienda-demo.example.test
+E0218;Alessia;Mariani;Customer Support;Remote;Team Coordinator;Determinato;2018-11-10;Non applicabile;2027-01-28;40;1.00;E0003;CC03;alessia.mariani.218@azienda-demo.example.test
+E0219;Davide;Santoro;Operations;Milano;Logistics Coordinator;Indeterminato;2020-11-20;Non applicabile;Non applicabile;32;0.80;E0002;CC02;davide.santoro.219@azienda-demo.example.test
+E0220;Matteo;Martini;Finance;Palermo;Controller;Indeterminato;2022-09-17;Non applicabile;Non applicabile;40;1.00;E0005;CC05;matteo.martini.220@azienda-demo.example.test
+E0221;Antonio;Rizzo;Engineering;Bologna;QA Engineer;Indeterminato;2026-09-30;Non applicabile;Non applicabile;40;1.00;E0001;CC01;antonio.rizzo.221@azienda-demo.example.test
+E0222;Riccardo;Fontana;Engineering;Milano;Product Designer;Indeterminato;2026-07-14;Non applicabile;Non applicabile;40;1.00;E0001;CC01;riccardo.fontana.222@azienda-demo.example.test
+E0223;Stefano;Caruso;Finance;Milano;Finance Specialist;Indeterminato;2026-04-14;Non applicabile;Non applicabile;40;1.00;E0005;CC05;stefano.caruso.223@azienda-demo.example.test
+E0224;Pietro;Greco;Customer Support;Milano;Customer Care Specialist;Determinato;2026-08-28;Non applicabile;2026-10-11;32;0.80;E0003;CC03;pietro.greco.224@azienda-demo.example.test
+E0225;Andrea;Costa;Engineering;Milano;Software Developer;Indeterminato;2026-07-20;Non applicabile;Non applicabile;40;1.00;E0001;CC01;andrea.costa.225@azienda-demo.example.test
+E0226;Giuseppe;Ferrara;Engineering;Palermo;Product Designer;Determinato;2026-07-24;Non applicabile;2027-03-21;40;1.00;E0001;CC01;giuseppe.ferrara.226@azienda-demo.example.test
+E0227;Martina;Marino;Sales;Palermo;Account Executive;Determinato;2026-05-17;Non applicabile;2027-02-04;40;1.00;E0004;CC04;martina.marino.227@azienda-demo.example.test
+E0228;Elena;DeLuca;Engineering;Bologna;QA Engineer;Determinato;2026-09-23;Non applicabile;2026-10-17;40;1.00;E0001;CC01;elena.deluca.228@azienda-demo.example.test
+E0229;Francesca;Ferrara;Customer Support;Milano;Support Specialist;Determinato;2026-06-04;Non applicabile;2027-04-25;40;1.00;E0003;CC03;francesca.ferrara.229@azienda-demo.example.test
+E0230;Lorenzo;Greco;Engineering;Remote;Product Designer;Determinato;2026-07-24;Non applicabile;2026-10-18;40;1.00;E0001;CC01;lorenzo.greco.230@azienda-demo.example.test
+E0231;Nicola;Santoro;Sales;Palermo;Sales Specialist;Determinato;2026-06-03;Non applicabile;2027-01-24;24;0.60;E0004;CC04;nicola.santoro.231@azienda-demo.example.test
+E0232;Riccardo;Conti;Engineering;Milano;QA Engineer;Determinato;2026-09-19;Non applicabile;2026-11-24;30;0.75;E0001;CC01;riccardo.conti.232@azienda-demo.example.test
+E0233;Lorenzo;Rinaldi;People;Remote;Recruiter;Indeterminato;2026-07-16;Non applicabile;Non applicabile;40;1.00;E0006;CC06;lorenzo.rinaldi.233@azienda-demo.example.test
+E0234;Francesco;Mancini;Operations;Bologna;Logistics Coordinator;Indeterminato;2026-04-23;Non applicabile;Non applicabile;40;1.00;E0002;CC02;francesco.mancini.234@azienda-demo.example.test
+E0235;Lorenzo;Greco;Finance;Remote;Finance Specialist;Indeterminato;2026-05-25;Non applicabile;Non applicabile;40;1.00;E0005;CC05;lorenzo.greco.235@azienda-demo.example.test
+E0236;Nicola;Martini;People;Remote;People Operations;Indeterminato;2026-07-30;Non applicabile;Non applicabile;40;1.00;E0006;CC06;nicola.martini.236@azienda-demo.example.test
+E0237;Giuseppe;Russo;Operations;Palermo;Operations Specialist;Indeterminato;2026-04-11;Non applicabile;Non applicabile;40;1.00;E0002;CC02;giuseppe.russo.237@azienda-demo.example.test
+E0238;Giorgia;Galli;Operations;Bologna;Office Specialist;Indeterminato;2026-07-25;Non applicabile;Non applicabile;40;1.00;E0002;CC02;giorgia.galli.238@azienda-demo.example.test
+E0239;Francesca;Rizzo;Direzione;Milano;Business Manager;Indeterminato;2026-06-06;Non applicabile;Non applicabile;30;0.75;E0008;CC08;francesca.rizzo.239@azienda-demo.example.test
+E0240;Ilaria;Fontana;Customer Support;Milano;Customer Care Specialist;Indeterminato;2026-04-15;Non applicabile;Non applicabile;40;1.00;E0003;CC03;ilaria.fontana.240@azienda-demo.example.test
+E0241;Davide;Bruno;Operations;Remote;Operations Specialist;Apprendistato;2026-09-24;Non applicabile;2027-08-28;40;1.00;E0002;CC02;davide.bruno.241@azienda-demo.example.test
+E0242;Ilaria;Ferrari;Engineering;Milano;Product Designer;Determinato;2026-05-29;Non applicabile;2027-09-23;40;1.00;E0001;CC01;ilaria.ferrari.242@azienda-demo.example.test
+E0243;Antonio;Bruno;Marketing;Palermo;Content Specialist;Determinato;2026-09-03;Non applicabile;2026-12-25;24;0.60;E0007;CC07;antonio.bruno.243@azienda-demo.example.test
+E0244;Alessia;Romano;Customer Support;Milano;Customer Care Specialist;Determinato;2026-08-04;Non applicabile;2027-04-26;36;0.90;E0003;CC03;alessia.romano.244@azienda-demo.example.test
+E0245;Simone;Lombardi;Finance;Palermo;Controller;Indeterminato;2026-09-09;Non applicabile;Non applicabile;40;1.00;E0005;CC05;simone.lombardi.245@azienda-demo.example.test
+E0246;Francesca;Esposito;Customer Support;Milano;Team Coordinator;Indeterminato;2026-05-30;Non applicabile;Non applicabile;40;1.00;E0003;CC03;francesca.esposito.246@azienda-demo.example.test
+E0247;Giorgia;Moretti;Marketing;Palermo;Content Specialist;Indeterminato;2026-07-02;Non applicabile;Non applicabile;20;0.50;E0007;CC07;giorgia.moretti.247@azienda-demo.example.test
+E0248;Silvia;Santoro;Operations;Milano;Logistics Coordinator;Indeterminato;2026-04-05;Non applicabile;Non applicabile;40;1.00;E0002;CC02;silvia.santoro.248@azienda-demo.example.test
+E0249;Chiara;Martini;Engineering;Milano;Product Designer;Indeterminato;2026-09-11;Non applicabile;Non applicabile;36;0.90;E0001;CC01;chiara.martini.249@azienda-demo.example.test
+E0250;Pietro;Mancini;Customer Support;Bologna;Support Specialist;Indeterminato;2026-09-20;Non applicabile;Non applicabile;24;0.60;E0003;CC03;pietro.mancini.250@azienda-demo.example.test
+E0251;Ilaria;Moretti;People;Bologna;HR Specialist;Indeterminato;2026-08-18;Non applicabile;Non applicabile;40;1.00;E0006;CC06;ilaria.moretti.251@azienda-demo.example.test
+E0252;Elena;Barbieri;Sales;Remote;Sales Operations;Apprendistato;2026-06-25;Non applicabile;2027-04-13;40;1.00;E0004;CC04;elena.barbieri.252@azienda-demo.example.test
+E0253;Silvia;Esposito;Engineering;Bologna;Software Developer;Apprendistato;2026-04-02;Non applicabile;2027-10-17;30;0.75;E0001;CC01;silvia.esposito.253@azienda-demo.example.test
+E0254;Federica;Ferrara;Engineering;Milano;Software Developer;Determinato;2026-04-20;Non applicabile;2027-07-18;40;1.00;E0001;CC01;federica.ferrara.254@azienda-demo.example.test
+E0255;Marco;Moretti;Operations;Bologna;Office Specialist;Indeterminato;2026-09-13;Non applicabile;Non applicabile;40;1.00;E0002;CC02;marco.moretti.255@azienda-demo.example.test
+E0256;Luca;Conti;Engineering;Remote;QA Engineer;Indeterminato;2026-09-15;Non applicabile;Non applicabile;40;1.00;E0001;CC01;luca.conti.256@azienda-demo.example.test
+E0257;Ilaria;Leone;Engineering;Bologna;Product Designer;Indeterminato;2026-04-23;Non applicabile;Non applicabile;40;1.00;E0001;CC01;ilaria.leone.257@azienda-demo.example.test
+E0258;Chiara;Barbieri;Marketing;Milano;Marketing Analyst;Indeterminato;2026-08-14;Non applicabile;Non applicabile;40;1.00;E0007;CC07;chiara.barbieri.258@azienda-demo.example.test
+E0259;Martina;Santoro;Engineering;Bologna;QA Engineer;Determinato;2026-08-09;Non applicabile;2026-10-27;40;1.00;E0001;CC01;martina.santoro.259@azienda-demo.example.test
+E0260;Silvia;Gallo;Customer Support;Milano;Support Specialist;Indeterminato;2026-04-19;Non applicabile;Non applicabile;40;1.00;E0003;CC03;silvia.gallo.260@azienda-demo.example.test
